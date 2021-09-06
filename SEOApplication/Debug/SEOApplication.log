@@ -1,0 +1,6 @@
+﻿  SEOApplication.cpp
+C:\Users\diarm\source\repos\SEOApplication\SEOApplication\SEOApplication.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\diarm\source\repos\SEOApplication\SEOApplication\SEOApplication.cpp(363,48): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\diarm\source\repos\SEOApplication\SEOApplication\SEOApplication.cpp(413,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\diarm\source\repos\SEOApplication\SEOApplication\SEOApplication.cpp(429,27): warning C4018: '<': signed/unsigned mismatch
+  SEOApplication.vcxproj -> C:\Users\diarm\source\repos\SEOApplication\Debug\SEOApplication.exe
